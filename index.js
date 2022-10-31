@@ -1,0 +1,13 @@
+"use strict";
+module.exports.anime = require('./lib/anime/index.js');
+module.exports.download = require('./lib/download/index.js');
+module.exports.convert = require('./lib/convert/index.js');
+module.exports.info = require('./lib/info/index.js');
+module.exports.image = require('./lib/image/index.js');
+module.exports.stalk = require('./lib/stalk/index.js');
+module.exports.search = require('./lib/search/index.js');
+module.exports.hentai = require('./lib/hentai/index.js');
+module.exports.pornhub = require('./lib/pornhub/index.js');
+module.exports.news = require('./lib/news/index.js');
+module.exports.textpro = require('./lib/textpro/index.js');
+module.exports.other = require('./lib/other/zindex.js');
